@@ -2,9 +2,9 @@
 
 BitTorrent Sync：BHS55LP54SO7A434QBB5Z2O6B7A45B2BX  
 主页：[https://breakwa11.github.io/](https://breakwa11.github.io/)  
-Wiki：[https://github.com/breakwa11/shadowsocks-rss/wiki](https://github.com/breakwa11/shadowsocks-rss/wiki)  
+Wiki：[https://github.com/noisky/shadowsocks-rss/wiki](https://github.com/noisky/shadowsocks-rss/wiki)  
 ZeroNet主页：[shadowsocksr.bit](http://127.0.0.1:43110/shadowsocksr.bit)  
-ShadowsocksR主要分支：[SSR C#](https://github.com/shadowsocksr/shadowsocksr-csharp), [SSR python manyuser](https://github.com/shadowsocksr/shadowsocksr/tree/manyuser), [SSR-libev](https://github.com/shadowsocksr/shadowsocksr-libev)  
+ShadowsocksR主要分支：[SSR C#](https://github.com/shadowsocksr/shadowsocksr-csharp), [SSR python manyuser](https://github.com/noisky/shadowsocksr/tree/manyuser), [SSR-libev](https://github.com/shadowsocksr/shadowsocksr-libev)  
 Android APP: [SSR-android](https://github.com/shadowsocksr/shadowsocksr-android/releases)  
 iOS APP： [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118), [Potatso2](https://download.potatso.com), [Cross](https://itunes.apple.com/cn/app/cross-shadowsocks-proxy-client/id1194595243)  
 MAC APP：[ShadowsocksX-NG](https://github.com/qinyuhang/ShadowsocksX-NG/releases), [ShadowsocksX-R](https://github.com/yichengchen/ShadowsocksX-R/releases)  
